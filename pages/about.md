@@ -7,7 +7,7 @@ permalink: /about
 # Who are we?
 
 Our project is a joint venture between the computer science and biomedical engineering departments:
-  * Andrew DelMasotr
+  * Andrew DelMastro
   * Yves Gatete
   * Zetty Cho
   * Dogacan Colac
