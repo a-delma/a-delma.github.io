@@ -1,7 +1,19 @@
 ---
 layout: page
-title: About
+title: About my device
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+# Who are we?
+
+Our project is a joint venture between the computer science and biomedical engineering departments:
+  * Andrew DelMasotr
+  * Yves Gatete
+  * Zetty Cho
+  * Dogacan Colac
+  * Erce Ozmetin
+
+We are working with the sponsorship of Dräger Medical System. 
+
+# What are we making?
+  We are working on a machine learning model to replace current handwritten ECG algorithms for heartbeat detection and classification. 
